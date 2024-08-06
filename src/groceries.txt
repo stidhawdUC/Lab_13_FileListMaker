@@ -1,11 +1,11 @@
   1 -                                             iced coffee
-  2 -                                        breakfast bagels
-  3 -                                                    eggs
-  4 -                                              hashbrowns
-  5 -                                                biscotti
-  6 -                                              croissants
-  7 -                                                danishes
-  8 -                                        pain au chocolat
-  9 -                                            bran muffins
- 10 -                                   blueberry muffins too
- 11 -                                       bags for iced tea
+  2 -                            Pumpkin Spice flavor creamer
+  3 -                                       bags for iced tea
+  4 -                                        breakfast bagels
+  5 -                                                    eggs
+  6 -                                              hashbrowns
+  7 -                                                biscotti
+  8 -                                              croissants
+  9 -                                                danishes
+ 10 -                                            bran muffins
+ 11 -                                   blueberry muffins too

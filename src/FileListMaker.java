@@ -209,7 +209,7 @@ public class FileListMaker {
 
         list.remove(itemToBeMoved);
         list.add(newMoveLocation, itemInStasis);
-        System.out.println("Deleting item...\n");
+        System.out.println("Moving item...\n");
     }
     private static void saveList()
     {
