@@ -78,7 +78,11 @@ public class FileListMaker {
                             //this will involve a little placeholder spot so you can delete its old self
                             //before placing the new one down.
                             //let's do this one after "C"
-                    if(list.size() != 0) moveItemAroundList();
+                    if(list.size() != 0)
+                    {
+                        needsToSave = true;
+                        moveItemAroundList();
+                    }
                     else System.out.println("\nNo items yet to Move!\n");
                     break;
                 case "O":

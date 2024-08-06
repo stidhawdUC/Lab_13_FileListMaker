@@ -1,7 +1,11 @@
-  1 -                                              croissants
-  2 -                                                danishes
-  3 -                                        pain au chocolat
-  4 -                                        breakfast bagels
-  5 -                                              hashbrowns
-  6 -                                                biscotti
-  7 -                                             iced coffee
+  1 -                                             iced coffee
+  2 -                                        breakfast bagels
+  3 -                                                    eggs
+  4 -                                              hashbrowns
+  5 -                                                biscotti
+  6 -                                              croissants
+  7 -                                                danishes
+  8 -                                        pain au chocolat
+  9 -                                            bran muffins
+ 10 -                                   blueberry muffins too
+ 11 -                                       bags for iced tea
